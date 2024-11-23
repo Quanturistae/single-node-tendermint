@@ -3,7 +3,7 @@ package consensus
 import (
 	"log"
 
-	"github.com/Quanturistae/single-node-tendermint/dilithium"
+	"github.com/Quanturistae/single-node-tendermint/crypto"
 )
 
 func StartConsensus() {
